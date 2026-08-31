@@ -43,7 +43,7 @@ void main() {
     //Trin 4
     boolean ungHelt =  karakterAlder < 25;
     if(seOutput)
-        System.out.println("Din karakter, " + karakterNavn + " er en ung helt? " + ungHelt);;
+        System.out.println("Din karakter, " + karakterNavn + " er en ung helt? " + ungHelt);
 
     //Trin 5
     //Vi vælger den første karakter i strengen karakterNavn, hvilket altid starter på 0 og ikke 1.
