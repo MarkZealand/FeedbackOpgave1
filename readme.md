@@ -3,7 +3,7 @@
 ## Gruppemedlemmer:
 * Mark
 * Sara
-* 
+* Niklas
 
 ## Hvad programmet gør 
 Dette program giver mulighed for brugere at oprette en karakter, med et par simple valgmuligheder såsom navn, alder, styrke og lignende der kan sættes via tekst input. Programmet viser til sidst alle de indtastede variabler, såvel som et par beregninger såsom hvor meget skade karakteren kan lave, og hvor meget liv karakteren har.
